@@ -32,12 +32,12 @@ Data Analysis phase
      c.We will be using R to process and visualize our data.
 
      
-  4.Analyze
+4.Analyze
   
-      a.We discovered that people tend to do more activities on Tues,Wed and Thurs.
-      b.We also discovered that 33 persons use the Fitbit Tracker to track daily_activity,daily_steps,steps_hour
-       ,24 people used it to track their sleep,14 people used to track heart rate and 8 people used it to log their weight.
-       c.We noticed a high average daily step in April 27,and we cannot deduce the cause for eg, was it a world health day? or fitness etc
+    a.We discovered that people tend to do more activities on Tues,Wed and Thurs.
+    b.We also discovered that 33 persons use the Fitbit Tracker to track daily_activity,daily_steps,steps_hour
+    ,24 people used it to track their sleep,14 people used to track heart rate and 8 people used it to log their weight.
+    c.We noticed a high average daily step in April 27,and we cannot deduce the cause for eg, was it a world health day? or fitness etc
 
        
  5.Share
