@@ -6,32 +6,44 @@ Stakeholders
 Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
 ○ Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
 ○ Bellabeat marketing analytics team.
+
+
 Data Analysis phase
 1.Ask 
   Lets re-define the questions
   What are the problems we are trying to solve?
     a. Whar are the trends in the usage of the Fitbit Tracker?-- 
     b. How can the insights drive business decisions?--
+
+    
 2.Prepare
     a.What kind of data are we using?--Thirty fitbit users shared their personal logs
     b.Where are we getting the data from?--The data was gotten from kaggle through through Mobius.
     c.Does the data follow ROCCC format? The data is limited. It contains only data of two months. Also, the users are also small
     ,since Bellabeats just want to get an idea of fitness market.
+
+    
  3.Process
      a.we need to clean the dataset by formatting the column names
      b.And also,filter duplicates and missing values.
      c.We will be using R to process and visualize our data.
+
+     
   4.Analyze
       a.We discovered that people tend to do more activities on Tues,Wed and Thurs.
       b.We also discovered that 33 persons use the Fitbit Tracker to track daily_activity,daily_steps,steps_hour
        ,24 people used it to track their sleep,14 people used to track heart rate and 8 people used it to log their weight.
        c.We noticed a high average daily step in April 27,and we cannot deduce the cause for eg, was it a world health day? or fitness etc
-  5.Share
+
+       
+ 5.Share
   a.We used line charts,column charts and bar charts to share our findings
   b.We also checked the correlation between Total time in bed and total time asleep, we discovered a strong positive correlation.
   c.we took it further to check the p_value and found out that there is a strong statistical significance.
   d.We used a scatter plot to find out the number of days people worked out Vs average steps, there was a mild relationship.
   e.We also saw the peak periods when people track their steps hourly;eg morning at 10:00 and evening from 7:00pm.
+
+  
   6. Act
   From my finding I will recommend the following to stakeholders;
   a. Marketing Team should roll out features that will help people to work out more from Tues till Thurs.
