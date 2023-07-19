@@ -9,6 +9,7 @@ Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
 
 
 Data Analysis phase
+
 1.Ask 
   Lets re-define the questions
   What are the problems we are trying to solve?
@@ -17,6 +18,7 @@ Data Analysis phase
 
     
 2.Prepare
+
     a.What kind of data are we using?--Thirty fitbit users shared their personal logs
     b.Where are we getting the data from?--The data was gotten from kaggle through through Mobius.
     c.Does the data follow ROCCC format? The data is limited. It contains only data of two months. Also, the users are also small
@@ -24,12 +26,14 @@ Data Analysis phase
 
     
  3.Process
+ 
      a.we need to clean the dataset by formatting the column names
      b.And also,filter duplicates and missing values.
      c.We will be using R to process and visualize our data.
 
      
   4.Analyze
+  
       a.We discovered that people tend to do more activities on Tues,Wed and Thurs.
       b.We also discovered that 33 persons use the Fitbit Tracker to track daily_activity,daily_steps,steps_hour
        ,24 people used it to track their sleep,14 people used to track heart rate and 8 people used it to log their weight.
@@ -37,6 +41,8 @@ Data Analysis phase
 
        
  5.Share
+
+ 
   a.We used line charts,column charts and bar charts to share our findings
   b.We also checked the correlation between Total time in bed and total time asleep, we discovered a strong positive correlation.
   c.we took it further to check the p_value and found out that there is a strong statistical significance.
@@ -45,6 +51,8 @@ Data Analysis phase
 
   
   6. Act
+
+
   From my finding I will recommend the following to stakeholders;
   a. Marketing Team should roll out features that will help people to work out more from Tues till Thurs.
   b.They should also encourage users to track their steps between 10 and 7pm, and from thr look of this, majority of our usesr are 9 to 5 office workers.
